@@ -1,0 +1,28 @@
+.body-city-sun{
+  background: linear-gradient( rgb(229, 184, 101),  rgb(255, 255, 255));
+}
+
+.body-city-moon{
+  background: linear-gradient( #191970,  rgb(119, 131, 159));
+}
+
+.container {
+  margin-top: -150px;
+  max-width: 400px;
+}
+
+h1 {
+  font-size: 2.2rem;
+}
+
+.fa-lg{
+  margin:30px 10px;
+  font-size: 200px !important;
+}
+
+.fa-moon{ 
+  color:	#d4dee1 ;
+}
+.fa-sun{
+  color: #FFD43B;
+}
